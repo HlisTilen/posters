@@ -7,10 +7,15 @@
     <a href="#2016">2016</a> •
     <a href="#2020">2020</a> •
     <a href="#2021">2021</a> •
-    <a href="#2022">2022</a>
+    <a href="#2022">2022</a> •
+    <a href="#2026">2026</a> 
 </p>
 
 This repository contains a compilation of conference posters featuring papers I authored or co-authored. It undergoes regular updates.
+
+## 2026
+
+Hliš, T., Butolen, U., Fister, I., & Fister Jr, I. (2026). [A Life-Cycle Assessment of the Hidden Environmental Cost of Selfies](https://github.com/firefly-cpp/posters/blob/main/Hlis_WWW_2026.pdf). In Proceedings of the ACM Web Conference 2026 (pp. 8433-8436).
   
 ## 2022
 
@@ -51,3 +56,4 @@ Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 [![Iztok_GECCO_2021](/image_thumbnails/pdf_Iztok_GECCO_2021_thumb.png)](Iztok_GECCO_2021.pdf)
 [![nacrtovanje-sportnih-jedilnikov](/image_thumbnails/pdf_nacrtovanje-sportnih-jedilnikov_thumb.png)](nacrtovanje-sportnih-jedilnikov.pdf)
 [![umetni-sportni-trener](/image_thumbnails/pdf_umetni-sportni-trener_thumb.png)](umetni-sportni-trener.pdf)
+[![Iztok_ISMSI_2019](/image_thumbnails/pdf_Hlis_WWW_2026_thumb.png)](Hlis_WWW_2026.pdf)
