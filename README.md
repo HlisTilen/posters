@@ -56,4 +56,3 @@ Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 [![Iztok_GECCO_2021](/image_thumbnails/pdf_Iztok_GECCO_2021_thumb.png)](Iztok_GECCO_2021.pdf)
 [![nacrtovanje-sportnih-jedilnikov](/image_thumbnails/pdf_nacrtovanje-sportnih-jedilnikov_thumb.png)](nacrtovanje-sportnih-jedilnikov.pdf)
 [![umetni-sportni-trener](/image_thumbnails/pdf_umetni-sportni-trener_thumb.png)](umetni-sportni-trener.pdf)
-[![Iztok_ISMSI_2019](/image_thumbnails/pdf_Hlis_WWW_2026_thumb.png)](Hlis_WWW_2026.pdf)
